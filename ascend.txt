@@ -1,0 +1,4 @@
+/p Raising <t> <se.11>
+/wait 1
+/ac Ascend <t>
+/micon Ascend

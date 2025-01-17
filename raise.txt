@@ -1,3 +1,0 @@
-/p Raise <t> <se.11>
-/ac Egeiro <t>
-/micon Egeiro
